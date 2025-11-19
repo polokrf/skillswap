@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Ayesha Rahman",
+    "skill": "Graphic Design",
+    "story": "Through SkillSwap, I started teaching design for the first time. Now I work as a freelance designer, earn regularly, and help new learners develop their skills.",
+    "image": "https://i.ibb.co.com/N6CQc7hR/Gemini-Generated-Image-4e5kdj4e5kdj4e5k.png"
+  },
+  {
+    "id": 2,
+    "name": "Tanvir Hossain",
+    "skill": "Guitar Lessons",
+    "story": "Teaching guitar has always been my passion, but I never had the right platform. SkillSwap gave me the opportunity to share my talent and connect with amazing students.",
+    "image": "https://i.ibb.co.com/SDVBJ8sw/Gemini-Generated-Image-puw3dtpuw3dtpuw3.png"
+  },
+  {
+    "id": 3,
+    "name": "Rafiq Ahmed",
+    "skill": "English Speaking",
+    "story": "I used to be nervous speaking English, but a mentor I met on SkillSwap helped me gain confidence. Now I guide other learners to improve their communication skills.",
+    "image": "https://i.ibb.co.com/0y1cxhbq/Gemini-Generated-Image-u1dr6ju1dr6ju1dr.png"
+  },
+  {
+    "id": 4,
+    "name": "Nusrat Jahan",
+    "skill": "Web Development",
+    "story": "SkillSwap helped me share my web development knowledge with others. Today I host online coding classes and have started building my own freelance projects.",
+    "image": "https://i.ibb.co.com/LDbf7dXf/Gemini-Generated-Image-bepm70bepm70bepm.png"
+  }
+]

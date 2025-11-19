@@ -1,0 +1,74 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "Beginner Guitar Lessons",
+    "providerName": "Alex Martin",
+    "providerEmail": "alex@skillswap.com",
+    "price": 20,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Acoustic guitar classes for complete beginners.",
+    "image": "https://i.ibb.co.com/JR52qYzN/Gemini-Generated-Image-315kjm315kjm315k-1.png",
+    "category": "Music"
+  },
+  {
+    "skillId": 2,
+    "skillName": "French Language Basics",
+    "providerName": "Sophie Laurent",
+    "providerEmail": "sophie@skillswap.com",
+    "price": 25,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Learn basic French phrases and conversation skills.",
+    "image": "https://i.ibb.co.com/fzVh1tN9/Gemini-Generated-Image-gql0qdgql0qdgql0.png",
+    "category": "Language"
+  },
+  {
+    "skillId": 3,
+    "skillName": "Yoga for Beginners",
+    "providerName": "Ravi Kumar",
+    "providerEmail": "ravi@skillswap.com",
+    "price": 15,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Gentle yoga sessions suitable for all ages.",
+    "image": "https://i.ibb.co.com/HDRc6RHj/Gemini-Generated-Image-4bzp4h4bzp4h4bzp.png",
+    "category": "Fitness"
+  },
+  {
+    "skillId": 4,
+    "skillName": "Web Development Fundamentals",
+    "providerName": "Linda Chen",
+    "providerEmail": "linda@skillswap.com",
+    "price": 30,
+    "rating": 4.7,
+    "slotsAvailable": 2,
+    "description": "Introductory course on HTML, CSS, and JavaScript.",
+    "image": "https://i.ibb.co.com/tp68ftM8/Gemini-Generated-Image-gwnc3hgwnc3hgwnc.png",
+    "category": "Programming"
+  },
+  {
+    "skillId": 5,
+    "skillName": "Digital Photography",
+    "providerName": "Michael Smith",
+    "providerEmail": "michael@skillswap.com",
+    "price": 35,
+    "rating": 4.5,
+    "slotsAvailable": 3,
+    "description": "Learn the basics of DSLR photography and editing.",
+    "image": "https://i.ibb.co.com/CKNHWjdp/Gemini-Generated-Image-pqyrw0pqyrw0pqyr.png",
+    "category": "Photography"
+  },
+  {
+    "skillId": 6,
+    "skillName": "Cooking Italian Cuisine",
+    "providerName": "Giovanni Rossi",
+    "providerEmail": "giovanni@skillswap.com",
+    "price": 40,
+    "rating": 4.8,
+    "slotsAvailable": 4,
+    "description": "Hands-on cooking classes focusing on Italian dishes.",
+    "image": "https://i.ibb.co.com/nM3FsggV/Gemini-Generated-Image-3wtsdq3wtsdq3wts.png",
+    "category": "Cooking"
+  }
+]

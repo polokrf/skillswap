@@ -1,0 +1,32 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "Yoga for Beginners",
+    "providerName": "Ravi Kumar",
+    "providerEmail": "ravi@skillswap.com",
+    "rating": 4.9,
+    "category": "Fitness",
+    "img":"https://i.ibb.co.com/BKck6f8B/focused-young-indian-man-meditating-lotus-pose.jpg",
+    "info": "Ravi Kumar is a certified yoga instructor with over 10 years of experience teaching gentle yoga sessions suitable for all ages. He focuses on mindfulness, flexibility, and stress reduction, helping beginners build a strong foundation in yoga practices."
+  },
+  {
+    "skillId": 2,
+    "skillName": "Beginner Guitar Lessons",
+    "providerName": "Alex Martin",
+    "providerEmail": "alex@skillswap.com",
+    "rating": 4.8,
+    "category": "Music",
+    "img":"https://i.ibb.co.com/wZMNrFnm/playing-guitar.jpg",
+    "info": "Alex Martin is a passionate guitarist who has been teaching acoustic guitar for over 8 years. He specializes in guiding beginners through chord progressions, strumming techniques, and building confidence to play simple songs from day one."
+  },
+  {
+    "skillId": 3,
+    "skillName": "Web Development Fundamentals",
+    "providerName": "Linda Chen",
+    "providerEmail": "linda@skillswap.com",
+    "rating": 4.7,
+    "category": "Cooking",
+    "img":"https://i.ibb.co.com/FqH4gXfP/young-bearded-man-glasses-blue-shirt-holding-laptop-pointing-with-finger-camera-smiling-confident.jpg",
+    "info": "Giovanni Rossi is an Italian chef with 15 years of culinary experience. He offers hands-on classes focusing on traditional Italian dishes, teaching everything from fresh pasta making to authentic sauces, and sharing his love for Italian cuisine."
+  }
+]
